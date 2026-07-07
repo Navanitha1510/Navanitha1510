@@ -1,4 +1,4 @@
- # 💫 About Me:
+# 💫 About Me:
 I'm a BCA Student
 
 
@@ -15,4 +15,5 @@ I'm a BCA Student
 ---
 [![](https://komarev.com/ghpvc/?username=Navanitha1510&icon=5&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
+ 
